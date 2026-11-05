@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "yuval_1234_adventure.aternos.me:40908",
-    "port": 40908,
+    "ip": "mushroom-server.aternos.me:19656",
+    "port": 19656,
     "version": "",
     "try-creative": false
   },
